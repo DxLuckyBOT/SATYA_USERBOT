@@ -11,12 +11,12 @@ https://github.com/BABY-MUSIC/SATYA_USERBOT
     envVars:
       - key: SUDO_USERS 
         sync: false
-      - key: BOT_TOKEN 
+      - key: BOT_TOKEN: 7287526476:AAEG-Pp6mZHJt6UT164sjIq01JhJhwy5T2o
         sync: false
-      - key: OWNER_ID 
+      - key: OWNER_ID: 6458155947
         sync: false
-      - key: STRING_SESSION1
+      - key: STRING_SESSION1: BQEM0NgAbq5mERbG9vTvVD2FwxEeiYG4NZctheyW-5vRgpjVnv_mKLj8gWf2SsiMT8e4UQKMIzPq-5OEUDx2peEEk7RwgrYJ86TVQFt_gHKZv-8q9hKFk_X_68bOZOefHCQ_j9tuqQVeW1pSovfrSSX7UlfvT3DAIKKQopFcOjW5YPNbtf5zFl_-Mm1uKZ79QxE8mw9r-tbpTWNPJnhjYbQ0RqHMamIyQ8D3Xey3DXciw9yrsNf3LjKwWW8hCDLmLDRBDdAhg9GEJaiBGBMnKfLfas3wOh7nc1q6hlnqgMU_eo5Vd-_C-c8Tgapb5BFc9O-O-qUeF_vfp4y79tfqwDXAUq2BxAAAAAHKGlt3AA
         sync: false
-      - key: MONGO_URL
+      - key: MONGO_URL: mongodb+srv://userbot:userbot@cluster0.iweqz.mongodb.net/test?retryWrites=true&w=majority
         sync: false    
     autoDeploy: false
